@@ -6,7 +6,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- ![alt text](https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326 [Connect with me on LinkedIn](https://www.linkedin.com/in/kuldeep-kumar-9a127676/))
+- ![alt text](https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326) [Connect with me on LinkedIn](https://www.linkedin.com/in/kuldeep-kumar-9a127676/)
 - [![IMAGE ALT TEXT HERE](https://emojis.slackmojis.com/emojis/images/1538663342/4762/medium.png?1538663342)](https://medium.com/@sharman94kuldeep)
 - [![IMAGE ALT TEXT HERE](https://emojis.slackmojis.com/emojis/images/1462799966/405/stackoverflow.png?1462799966)](https://stackoverflow.com/users/7618720/kuldeep-kumar)
 
