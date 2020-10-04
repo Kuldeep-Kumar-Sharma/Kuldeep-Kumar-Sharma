@@ -8,7 +8,7 @@
 
 ✔️ [Connect with me on LinkedIn](https://www.linkedin.com/in/kuldeep-kumar-9a127676/)
 ✔️ [Follow me on Medium](https://medium.com/@sharman94kuldeep)
-✔️ [Stack Overflow](https://stackoverflow.com/users/7618720/kuldeep-kumar)
+❓ [Stack Overflow](https://stackoverflow.com/users/7618720/kuldeep-kumar)
 
 <!-- - 🔭 I’m currently working on Chatbots with Nodejs
 - 🌱 I’m currently learning Full Stack Programming
