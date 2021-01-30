@@ -27,6 +27,7 @@
 </p>
 <h3>💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
 <hr>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kuldeep-Kumar-Sharma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align='left'>
