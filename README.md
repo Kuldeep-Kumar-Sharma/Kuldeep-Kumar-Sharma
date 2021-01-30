@@ -2,6 +2,7 @@
 
 ![Kuldeep-Kumar-Sharma github stats](https://github-readme-stats.vercel.app/api?username=Kuldeep-Kumar-Sharma&show_icons=true)
 
+<hr>
 <details>
   <summary>:zap: Top Langs :man_technologist: </summary>
  
@@ -21,8 +22,13 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7618720/kuldeep-kumar)
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kuldeepkumarsharma)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharman94kuldeep)
-![Git Memory](https://gitmemory.com/images/logo.png)](https://gitmemory.com/Kuldeep-Kumar-Sharma)
+[![Git Memory]](https://gitmemory.com/Kuldeep-Kumar-Sharma)
 
 </p>
-
+<h3>💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
+<hr>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kuldeep-Kumar-Sharma)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align='left'>
+   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=39633593"></a>
+</p>
