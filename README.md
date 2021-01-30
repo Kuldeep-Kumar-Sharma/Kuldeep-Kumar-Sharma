@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Kuldeep-Kumar-Sharma github stats](https://github-readme-stats.vercel.app/api?username=Kuldeep-Kumar-Sharma&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Kumar-Sharma&layout=compact)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kuldeep-Kumar-Sharma)]
 
 **Kuldeep-Kumar-Sharma/Kuldeep-Kumar-Sharma**
 
