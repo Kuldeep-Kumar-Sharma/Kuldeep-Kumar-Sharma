@@ -1,4 +1,4 @@
-### Hi :raising_hand: I'm Kuldeep Kumar
+### Hi :wave: I'm Kuldeep Kumar
 
 ![Kuldeep-Kumar-Sharma github stats](https://github-readme-stats.vercel.app/api?username=Kuldeep-Kumar-Sharma&show_icons=true)
 
