@@ -4,8 +4,10 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kuldeep-Kumar-Sharma)]
 
 <details>
-  <summary>:zap: Top Lang: </summary>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Kumar-Sharma&layout=compact)
+  <summary>:zap: Education :books: </summary>
+ 
+### IT Academy @[Barcelona Activa/Cibernarium](https://cibernarium.barcelonactiva.cat/es/it-academy) (2020)
+ :books: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Kumar-Sharma&layout=compact)
 
 **Kuldeep-Kumar-Sharma/Kuldeep-Kumar-Sharma**
 
