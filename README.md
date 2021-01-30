@@ -7,18 +7,12 @@
  
 ### Stats
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Kumar-Sharma&layout=compact)
-
-**Kuldeep-Kumar-Sharma/Kuldeep-Kumar-Sharma**
-
-<!-- Here are some ideas to get you started: -->
-
-Find me around the web 🌎
-✔️ [Connect with me on LinkedIn]()
-✔️ [Follow me on Medium]()
-❓ [Stack Overflow]()
-📈 []()
+</details>
 
 <!--Social Channel-->
+
+### Find me around the web 🌎
+
 <p align="center">
 
 [![Blog](https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)](http://codeperfectplus.herokuapp.com/)
@@ -27,15 +21,8 @@ Find me around the web 🌎
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7618720/kuldeep-kumar)
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kuldeepkumarsharma)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharman94kuldeep)
-![Git Memory](https://gitmemory.com/Kuldeep-Kumar-Sharma)
+![Git Memory](https://gitmemory.com/images/logo.png)](https://gitmemory.com/Kuldeep-Kumar-Sharma)
 
 </p>
 
-<!-- - 🔭 I’m currently working on Chatbots with Nodejs
-- 🌱 I’m currently learning Full Stack Programming
-- 👯 I’m looking to collaborate on new
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...0
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kuldeep-Kumar-Sharma)](https://github.com/ryo-ma/github-profile-trophy)
