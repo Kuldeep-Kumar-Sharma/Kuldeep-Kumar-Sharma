@@ -1,13 +1,18 @@
 ### Hi there 👋
 
 ![Kuldeep-Kumar-Sharma github stats](https://github-readme-stats.vercel.app/api?username=Kuldeep-Kumar-Sharma&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kuldeep-Kumar-Sharma)]
+
+<details>
+  <summary>:zap: Wakatime card :man_technologist: </summary>
+ 
+### Stats
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kuldeep-Kumar-Sharma)](https://github.com/Kuldeep-Kumar-Sharma/github-readme-stats)
 
 <details>
   <summary>:zap: Top Langs :man_technologist: </summary>
  
 ### Stats
- :@: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Kumar-Sharma&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Kumar-Sharma&layout=compact)
 
 **Kuldeep-Kumar-Sharma/Kuldeep-Kumar-Sharma**
 
