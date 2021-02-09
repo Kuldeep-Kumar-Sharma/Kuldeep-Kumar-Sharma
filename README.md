@@ -21,7 +21,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7618720/kuldeep-kumar)
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kuldeepkumarsharma)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharman94kuldeep)
-[<img align="left" alt="Kuldeep-Kumar-Sharma | Git Memory" width="22px" src="https://gitmemory.com/images/logo.png" />][gitmemory]
+[<img alt="Kuldeep-Kumar-Sharma | Git Memory" width="44px" src="https://gitmemory.com/images/logo.png" />][gitmemory]
 [gitmemory]: https://gitmemory.com/Kuldeep-Kumar-Sharma
 
 </p>
