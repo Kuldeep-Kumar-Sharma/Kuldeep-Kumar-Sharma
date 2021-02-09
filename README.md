@@ -23,7 +23,7 @@
 
 [gitmemory]: https://gitmemory.com/Kuldeep-Kumar-Sharma
 
-<h3>:book: Continous Learning, 🤝 Collaborating , :thinking: Looking for better solutions</h3> 
+<h3> :book: Continous Learning, 🤝 Collaborating , :thinking: Looking for better solutions</h3> 
 <hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kuldeep-Kumar-Sharma)](https://github.com/ryo-ma/github-profile-trophy)
