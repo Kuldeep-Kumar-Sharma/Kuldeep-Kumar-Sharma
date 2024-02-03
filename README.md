@@ -1,6 +1,6 @@
 ### Hi :wave: I'm Kuldeep Kumar
 
-![Kuldeep-Kumar-Sharma github stats](https://github-readme-stats.vercel.app/api?username=Kuldeep-Kumar-Sharma&show_icons=true)
+![Kuldeep-Kumar-Sharma github stats](https://github-readme-stats.vercel.app/api?username=Kuldeep-Kumar-Sharma)
 
 <hr>
 
@@ -43,9 +43,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kuldeep-Kumar-Sharma)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align='left'>
-   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=39633593"></a>
-</p>
 
 ### Support Me
 
