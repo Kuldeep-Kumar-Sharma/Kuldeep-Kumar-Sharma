@@ -1,6 +1,8 @@
 ### Hi :wave: I'm Kuldeep Kumar
 
-![Kuldeep-Kumar-Sharma github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github)
+![Kuldeep-Kumar-Sharma github stats](https://github-readme-stats.vercel.app/api?username=kuldeep-kumar-sharma\&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep-kumar-sharma\&layout=compact)
 
 <hr>
 
