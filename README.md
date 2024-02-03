@@ -1,6 +1,6 @@
 ### Hi :wave: I'm Kuldeep Kumar
 
-![Kuldeep-Kumar-Sharma github stats](https://github-readme-stats.vercel.app/api?username=Kuldeep-Kumar-Sharma)
+![Kuldeep-Kumar-Sharma github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github)
 
 <hr>
 
