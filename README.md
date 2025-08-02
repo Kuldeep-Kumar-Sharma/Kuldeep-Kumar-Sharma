@@ -2,7 +2,7 @@
 
 ![Kuldeep-Kumar-Sharma github stats](https://github-readme-stats.vercel.app/api?username=kuldeep-kumar-sharma\&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep-kumar-sharma\&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Kumar-Sharma&layout=compact&langs_count=8&hide=c,objective-c,swift,shell&hide_progress=true)
 
 <hr>
 
@@ -27,7 +27,7 @@
   <summary>:zap: Top Langs :man_technologist: </summary>
  
 ### Stats
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Kumar-Sharma&layout=compact&langs_count=8&hide=c,objective-c,swift,shell)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Kumar-Sharma&layout=compact&langs_count=8&hide=c,objective-c,swift,shell&hide_progress=true)
 </details>
 
 <!--Social Channel-->
