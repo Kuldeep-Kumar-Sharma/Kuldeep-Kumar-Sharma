@@ -27,7 +27,7 @@
   <summary>:zap: Top Langs :man_technologist: </summary>
  
 ### Stats
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Kumar-Sharma&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Kumar-Sharma&layout=compact&langs_count=8&hide=c,objective-c,swift,shell)
 </details>
 
 <!--Social Channel-->
